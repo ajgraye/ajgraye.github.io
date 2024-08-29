@@ -3,11 +3,11 @@ title: "Amia Graye"
 image: "AGraye_GradPic.jpeg"
 links:
   - label: LinkedIn
-    url: "www.linkedin.com/in/amia-graye-096881286"
+    url: "https://linkedin.com/in/amia-graye-096881286/"
   - label: GitHub
-    url: "https://github.com/ajgraye"
+    url: "https://github.com/ajgraye/"
   - label: Email
-    url: "agraye1@jh.edu"
+    url: "mailto:agraye1@jh.edu"
 output:
   postcards::trestles
 ---
