@@ -1,0 +1,52 @@
+---
+title: "Amia Graye"
+image: "AGraye_GradPic.jpeg"
+links:
+  - label: LinkedIn
+    url: "www.linkedin.com/in/amia-graye-096881286"
+  - label: GitHub
+    url: "https://github.com/ajgraye"
+  - label: Email
+    url: "agraye1@jh.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Amia Graye is a current Master of Science Candidate in Biostatistics at the Johns Hopkins Bloomberg School of Public Health, expected to graduate in May of 2026.
+
+Prior to the program, Amia Graye was a postbaccalaurete research fellow at the National Heart, Lung, and Blood Institute (NHLBI) at the National Institutes of Health (NIH). She worked in the Office of Biostatistics Research (OBR) under the advisement of Dong-Yun Kim, PhD. During her time at NHLBI, she worked with Marcus Carlsson, MD, PhD, and Eric Morgan, MD, PhD, in their Cardiac Magnetic Resonance (CMR) lab as a statistical analyst. She still currently works there as a special volunteer, but has lowered her role to prioritize her studies. 
+
+## Interests
+* Health disparities
+* Minority health
+* Women's health
+* Sequential analysis
+* Bayesian statistics
+
+## Education
+
+**Johns Hopkins University Bloomberg School of Public Health** | Baltimore, MD
+
+Sc.M. in Biostatistics Candidate | August 2024 - Present
+
+**Georgetown University** | Washington, DC
+
+B.A. in Mathematics | August 2020 - May 2023
+
+## Experience
+
+**National Heart, Lung, and Blood Institute** | Bethesda, MD | Postbaccalaureate Research Fellow | July 2023 - Present
+
+**Georgetown University Undergraduate Research Opportunities Program** | Washington, DC | Undergraduate Research Assistant | January 2022 - April 2023
+
+**Harvard T.H. Chan School of Public Health** | Boston, MA | Summer Program Research Participant | June 2022 - August 2022
+
+## Publications
+
+* Meyer, M.J., Graye, A., and Sellers, K.F. On Non- and Weakly-Informative Priors for the Conway-Maxwell-Poisson (COM-Poisson) Distribution. Under review. (Available online at "http://arxiv.org/abs/2311.18053")
+
+* Alimena S., Stephenson B., Webber J., Wollborn L., Sussman C., Packard D., Williams M., Cormie C., Wang J., Markert T., Spiegel J., Rodriguez Cabrera C., Lightfoot M., Graye A., O'Connor S., Elias K. Differences in serum miRNA profiles by race, ethnicity, & socioeconomic status: Implications for developing an equitable ovarian cancer screening test. In press.
+
+
